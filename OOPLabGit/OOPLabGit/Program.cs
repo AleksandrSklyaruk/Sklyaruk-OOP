@@ -10,6 +10,7 @@ namespace OOPLabGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Я создал второй коммит!");
         }
     }
 }
