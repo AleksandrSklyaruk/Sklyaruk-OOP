@@ -10,8 +10,9 @@ namespace OOPLabGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Я создал второй коммит!");
+            Console.WriteLine("Введите значение a:");
             double a = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Введите значение b:");
             double b = Convert.ToDouble(Console.ReadLine());
             double sum = a + b;
             Console.WriteLine($"Сумма чисел: {sum}");
