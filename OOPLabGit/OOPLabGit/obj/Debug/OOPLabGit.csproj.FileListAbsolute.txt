@@ -1,0 +1,8 @@
+U:\ООП2\OOPLabGit\OOPLabGit\bin\Debug\OOPLabGit.exe.config
+U:\ООП2\OOPLabGit\OOPLabGit\bin\Debug\OOPLabGit.exe
+U:\ООП2\OOPLabGit\OOPLabGit\bin\Debug\OOPLabGit.pdb
+U:\ООП2\OOPLabGit\OOPLabGit\obj\Debug\OOPLabGit.csproj.AssemblyReference.cache
+U:\ООП2\OOPLabGit\OOPLabGit\obj\Debug\OOPLabGit.csproj.SuggestedBindingRedirects.cache
+U:\ООП2\OOPLabGit\OOPLabGit\obj\Debug\OOPLabGit.csproj.CoreCompileInputs.cache
+U:\ООП2\OOPLabGit\OOPLabGit\obj\Debug\OOPLabGit.exe
+U:\ООП2\OOPLabGit\OOPLabGit\obj\Debug\OOPLabGit.pdb
