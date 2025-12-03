@@ -13,6 +13,7 @@ namespace OOPLabGit
             Console.WriteLine("Я создал второй коммит!");
             double a = Convert.ToDouble(Console.ReadLine());
             double b = Convert.ToDouble(Console.ReadLine());
+            double sum = a + b;
         }
     }
 }
