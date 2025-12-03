@@ -16,6 +16,7 @@ namespace OOPLabGit
             double b = Convert.ToDouble(Console.ReadLine());
             double sum = a + b;
             Console.WriteLine($"Сумма чисел: {sum}");
+            Console.ReadLine();
         }
     }
 }
