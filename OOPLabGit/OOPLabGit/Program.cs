@@ -10,7 +10,7 @@ namespace OOPLabGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Я создал второй коммит!");
+            Console.WriteLine("Введите значение a:");
             double a = Convert.ToDouble(Console.ReadLine());
             double b = Convert.ToDouble(Console.ReadLine());
         }
