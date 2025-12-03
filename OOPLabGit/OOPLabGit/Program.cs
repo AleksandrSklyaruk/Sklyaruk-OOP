@@ -12,6 +12,7 @@ namespace OOPLabGit
         {
             Console.WriteLine("Введите значение a:");
             double a = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Введите значение b:");
             double b = Convert.ToDouble(Console.ReadLine());
         }
     }
